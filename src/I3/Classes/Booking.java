@@ -9,7 +9,7 @@ import java.util.Date;
  */
 public class Booking {
     
-   // int CONFIRMED = 0; Test RajatGpta154
+   // int CONFIRMED = 0; Test RajatGpta154154
    // int RESERVED = 1;   
     
     // required Object
